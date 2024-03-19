@@ -133,7 +133,16 @@ header {
             <span class="green">8.2</span>
         </div>
         <div class="overview">
-            <h3 id="Description">2010, США, криминал</h3>
+            <h3 id="Description">2010, США, мультфильм</h3>
+        </div>
+    </div>
+    <div class="movie" id="movie">
+        <div class="movie-info" id="MovieInfoDiv">
+            <h3 id="MovieTitle">Тайна Коко</h3>
+            <span class="green">8.7</span>
+        </div>
+        <div class="overview">
+            <h3 id="Description">2017, США, мультфильм</h3>
         </div>
     </div>
 </main>
